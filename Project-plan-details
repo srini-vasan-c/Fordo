@@ -1,0 +1,31 @@
+Technologies decided:
+Frontend - react 
+Backend - dot net
+Db - mongo db
+
+UI:
+1. Login page
+2. Register page
+3. Home page with products to search
+4. Product details page, upon clicking the product from home page
+5. Chat page with seller, upon clicking the chat button from product page
+6. Admin page(can decide later)
+
+Backend:
+1. Login api
+2. Register api
+3. Product list api
+4. Category api
+5. Singe product details api
+6. Chat api
+7. Logout api
+8. Admin api( can decide later)
+
+DB:
+1. Userdetails table
+2. Category table
+3. Products table
+4. Cache table for maintaining session
+5. Main chat table
+6. Chat messages table
+7. Admin details table
